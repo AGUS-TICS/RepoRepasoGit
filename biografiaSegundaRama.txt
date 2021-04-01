@@ -1,5 +1,7 @@
 Es la biografia de la rama creada
+<<<<<<< HEAD
 kilo kilo 50 años de edad
 gato
 pato
 antilope
+
